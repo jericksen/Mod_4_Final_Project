@@ -48,14 +48,12 @@ The objective for JE Consulting is two fold:
 ### Part Two
 
 > - Feature Engineering
-    
     - Data Cleaning
     - Convert Labels to Integers
     - Tokenize Text
     - Padding Input Matrices
     - Train Test Split
 > - Modeling
-    
     - LSTM Model One
     - LSTM Model Two
     - LSTM Model Three
@@ -63,11 +61,11 @@ The objective for JE Consulting is two fold:
     
 **Conclusions**
 
-***Question:*** 
+*Question:* 
 
 Can a model successfully classify political affiliation based on language contained in official tweets?
 
-***Answer:*** 
+*Answer:* 
 
 Based on the objectives set forth by Trace Political, it seems we have failed to produce a model that can predict party affiliation with a 90% accuracy score. Further, each model exhibited clear signs of over fitting which does not lend itself to any succesful real world deployment of these models.
 
