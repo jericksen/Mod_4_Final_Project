@@ -48,12 +48,15 @@ The objective for JE Consulting is two fold:
 ### Part Two
 
 > - Feature Engineering
+
     - Data Cleaning
     - Convert Labels to Integers
     - Tokenize Text
     - Padding Input Matrices
     - Train Test Split
+
 > - Modeling
+
     - LSTM Model One
     - LSTM Model Two
     - LSTM Model Three
